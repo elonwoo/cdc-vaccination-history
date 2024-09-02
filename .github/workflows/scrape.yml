@@ -6,12 +6,16 @@ on:
   schedule:
     - cron: '6,26,46 * * * *'
 
+permissions:
+  contents: write
+  pages: write
+  
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Fetch latest data
       run: |-
         curl https://api.2626.com.cn/api/getCaipiaoInfo | jq . > incidents.json
