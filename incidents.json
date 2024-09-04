@@ -99,16 +99,16 @@
       "type": "qlc",
       "haoma": [
         "https://api.2626.com.cn/caipiao/redball-01.png",
-        "https://api.2626.com.cn/caipiao/redball-03.png",
-        "https://api.2626.com.cn/caipiao/redball-09.png",
-        "https://api.2626.com.cn/caipiao/redball-12.png",
-        "https://api.2626.com.cn/caipiao/redball-21.png",
-        "https://api.2626.com.cn/caipiao/redball-22.png",
-        "https://api.2626.com.cn/caipiao/redball-25.png",
-        "https://api.2626.com.cn/caipiao/blueball-18.png"
+        "https://api.2626.com.cn/caipiao/redball-06.png",
+        "https://api.2626.com.cn/caipiao/redball-13.png",
+        "https://api.2626.com.cn/caipiao/redball-15.png",
+        "https://api.2626.com.cn/caipiao/redball-18.png",
+        "https://api.2626.com.cn/caipiao/redball-26.png",
+        "https://api.2626.com.cn/caipiao/redball-27.png",
+        "https://api.2626.com.cn/caipiao/blueball-5.png"
       ],
-      "date_time": "2024102期 2024-09-02 周一",
-      "id": 29668,
+      "date_time": "2024103期 2024-09-04 周三",
+      "id": 29669,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon7.png"
     }
