@@ -40,12 +40,12 @@
       "title": "福彩3D",
       "type": "fucai3d",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-5.png",
-        "https://api.2626.com.cn/caipiao/redball-2.png",
-        "https://api.2626.com.cn/caipiao/redball-4.png"
+        "https://api.2626.com.cn/caipiao/redball-0.png",
+        "https://api.2626.com.cn/caipiao/redball-6.png",
+        "https://api.2626.com.cn/caipiao/redball-5.png"
       ],
-      "date_time": "2024239期 2024-09-05 周四",
-      "id": 9595,
+      "date_time": "2024240期 2024-09-06 周五",
+      "id": 9596,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon3.png"
     },
