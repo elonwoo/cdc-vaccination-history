@@ -81,16 +81,16 @@
       "title": "七星彩",
       "type": "qxc",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-4.png",
-        "https://api.2626.com.cn/caipiao/redball-9.png",
-        "https://api.2626.com.cn/caipiao/redball-7.png",
+        "https://api.2626.com.cn/caipiao/redball-0.png",
+        "https://api.2626.com.cn/caipiao/redball-6.png",
         "https://api.2626.com.cn/caipiao/redball-2.png",
-        "https://api.2626.com.cn/caipiao/redball-2.png",
-        "https://api.2626.com.cn/caipiao/redball-9.png",
-        "https://api.2626.com.cn/caipiao/blueball-8.png"
+        "https://api.2626.com.cn/caipiao/redball-5.png",
+        "https://api.2626.com.cn/caipiao/redball-8.png",
+        "https://api.2626.com.cn/caipiao/redball-5.png",
+        "https://api.2626.com.cn/caipiao/blueball-6.png"
       ],
-      "date_time": "2024102期 2024-09-03 周二",
-      "id": 28059,
+      "date_time": "2024103期 2024-09-06 周五",
+      "id": 28061,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon6.png"
     },
