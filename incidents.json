@@ -40,12 +40,12 @@
       "title": "福彩3D",
       "type": "fucai3d",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-0.png",
-        "https://api.2626.com.cn/caipiao/redball-6.png",
-        "https://api.2626.com.cn/caipiao/redball-5.png"
+        "https://api.2626.com.cn/caipiao/redball-4.png",
+        "https://api.2626.com.cn/caipiao/redball-7.png",
+        "https://api.2626.com.cn/caipiao/redball-0.png"
       ],
-      "date_time": "2024240期 2024-09-06 周五",
-      "id": 9596,
+      "date_time": "2024241期 2024-09-07 周六",
+      "id": 9597,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon3.png"
     },
@@ -53,12 +53,12 @@
       "title": "排列3",
       "type": "pls",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-8.png",
-        "https://api.2626.com.cn/caipiao/redball-1.png",
-        "https://api.2626.com.cn/caipiao/redball-5.png"
+        "https://api.2626.com.cn/caipiao/redball-0.png",
+        "https://api.2626.com.cn/caipiao/redball-6.png",
+        "https://api.2626.com.cn/caipiao/redball-3.png"
       ],
-      "date_time": "2024240期 2024-09-06 周五",
-      "id": 18675,
+      "date_time": "2024241期 2024-09-07 周六",
+      "id": 18676,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon4.png"
     },
@@ -66,14 +66,14 @@
       "title": "排列5",
       "type": "plw",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-8.png",
-        "https://api.2626.com.cn/caipiao/redball-1.png",
-        "https://api.2626.com.cn/caipiao/redball-5.png",
-        "https://api.2626.com.cn/caipiao/redball-2.png",
-        "https://api.2626.com.cn/caipiao/redball-6.png"
+        "https://api.2626.com.cn/caipiao/redball-0.png",
+        "https://api.2626.com.cn/caipiao/redball-6.png",
+        "https://api.2626.com.cn/caipiao/redball-3.png",
+        "https://api.2626.com.cn/caipiao/redball-9.png",
+        "https://api.2626.com.cn/caipiao/redball-2.png"
       ],
-      "date_time": "2024240期 2024-09-06 周五",
-      "id": 31890,
+      "date_time": "2024241期 2024-09-07 周六",
+      "id": 31891,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon5.png"
     },
