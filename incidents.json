@@ -23,16 +23,16 @@
       "title": "大乐透",
       "type": "dlt",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-19.png",
-        "https://api.2626.com.cn/caipiao/redball-21.png",
-        "https://api.2626.com.cn/caipiao/redball-29.png",
-        "https://api.2626.com.cn/caipiao/redball-32.png",
-        "https://api.2626.com.cn/caipiao/redball-33.png",
+        "https://api.2626.com.cn/caipiao/redball-01.png",
+        "https://api.2626.com.cn/caipiao/redball-04.png",
+        "https://api.2626.com.cn/caipiao/redball-09.png",
+        "https://api.2626.com.cn/caipiao/redball-13.png",
+        "https://api.2626.com.cn/caipiao/redball-17.png",
         "https://api.2626.com.cn/caipiao/blueball-06.png",
-        "https://api.2626.com.cn/caipiao/blueball-08.png"
+        "https://api.2626.com.cn/caipiao/blueball-09.png"
       ],
-      "date_time": "2024103期 2024-09-04 周三",
-      "id": 14282,
+      "date_time": "2024104期 2024-09-07 周六",
+      "id": 14283,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon2.png"
     },
