@@ -23,16 +23,16 @@
       "title": "大乐透",
       "type": "dlt",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-01.png",
-        "https://api.2626.com.cn/caipiao/redball-04.png",
-        "https://api.2626.com.cn/caipiao/redball-09.png",
-        "https://api.2626.com.cn/caipiao/redball-13.png",
-        "https://api.2626.com.cn/caipiao/redball-17.png",
-        "https://api.2626.com.cn/caipiao/blueball-06.png",
-        "https://api.2626.com.cn/caipiao/blueball-09.png"
+        "https://api.2626.com.cn/caipiao/redball-14.png",
+        "https://api.2626.com.cn/caipiao/redball-20.png",
+        "https://api.2626.com.cn/caipiao/redball-21.png",
+        "https://api.2626.com.cn/caipiao/redball-28.png",
+        "https://api.2626.com.cn/caipiao/redball-32.png",
+        "https://api.2626.com.cn/caipiao/blueball-09.png",
+        "https://api.2626.com.cn/caipiao/blueball-11.png"
       ],
-      "date_time": "2024104期 2024-09-07 周六",
-      "id": 14283,
+      "date_time": "2024105期 2024-09-09 周一",
+      "id": 14284,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon2.png"
     },
@@ -40,12 +40,12 @@
       "title": "福彩3D",
       "type": "fucai3d",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-6.png",
-        "https://api.2626.com.cn/caipiao/redball-2.png",
-        "https://api.2626.com.cn/caipiao/redball-3.png"
+        "https://api.2626.com.cn/caipiao/redball-9.png",
+        "https://api.2626.com.cn/caipiao/redball-5.png",
+        "https://api.2626.com.cn/caipiao/redball-5.png"
       ],
-      "date_time": "2024242期 2024-09-08 周日",
-      "id": 9598,
+      "date_time": "2024243期 2024-09-09 周一",
+      "id": 9599,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon3.png"
     },
@@ -53,12 +53,12 @@
       "title": "排列3",
       "type": "pls",
       "haoma": [
+        "https://api.2626.com.cn/caipiao/redball-9.png",
         "https://api.2626.com.cn/caipiao/redball-1.png",
-        "https://api.2626.com.cn/caipiao/redball-8.png",
-        "https://api.2626.com.cn/caipiao/redball-8.png"
+        "https://api.2626.com.cn/caipiao/redball-6.png"
       ],
-      "date_time": "2024242期 2024-09-08 周日",
-      "id": 18677,
+      "date_time": "2024243期 2024-09-09 周一",
+      "id": 18678,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon4.png"
     },
@@ -66,14 +66,14 @@
       "title": "排列5",
       "type": "plw",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-1.png",
-        "https://api.2626.com.cn/caipiao/redball-8.png",
-        "https://api.2626.com.cn/caipiao/redball-8.png",
         "https://api.2626.com.cn/caipiao/redball-9.png",
-        "https://api.2626.com.cn/caipiao/redball-4.png"
+        "https://api.2626.com.cn/caipiao/redball-1.png",
+        "https://api.2626.com.cn/caipiao/redball-6.png",
+        "https://api.2626.com.cn/caipiao/redball-3.png",
+        "https://api.2626.com.cn/caipiao/redball-0.png"
       ],
-      "date_time": "2024242期 2024-09-08 周日",
-      "id": 31892,
+      "date_time": "2024243期 2024-09-09 周一",
+      "id": 31893,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon5.png"
     },
