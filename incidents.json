@@ -98,17 +98,17 @@
       "title": "七乐彩",
       "type": "qlc",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-02.png",
-        "https://api.2626.com.cn/caipiao/redball-06.png",
-        "https://api.2626.com.cn/caipiao/redball-09.png",
+        "https://api.2626.com.cn/caipiao/redball-01.png",
         "https://api.2626.com.cn/caipiao/redball-11.png",
-        "https://api.2626.com.cn/caipiao/redball-13.png",
-        "https://api.2626.com.cn/caipiao/redball-20.png",
-        "https://api.2626.com.cn/caipiao/redball-28.png",
-        "https://api.2626.com.cn/caipiao/blueball-22.png"
+        "https://api.2626.com.cn/caipiao/redball-14.png",
+        "https://api.2626.com.cn/caipiao/redball-23.png",
+        "https://api.2626.com.cn/caipiao/redball-27.png",
+        "https://api.2626.com.cn/caipiao/redball-29.png",
+        "https://api.2626.com.cn/caipiao/redball-30.png",
+        "https://api.2626.com.cn/caipiao/blueball-18.png"
       ],
-      "date_time": "2024105期 2024-09-09 周一",
-      "id": 29671,
+      "date_time": "2024106期 2024-09-11 周三",
+      "id": 29672,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon7.png"
     }
