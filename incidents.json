@@ -40,12 +40,12 @@
       "title": "福彩3D",
       "type": "fucai3d",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-8.png",
-        "https://api.2626.com.cn/caipiao/redball-6.png",
-        "https://api.2626.com.cn/caipiao/redball-3.png"
+        "https://api.2626.com.cn/caipiao/redball-7.png",
+        "https://api.2626.com.cn/caipiao/redball-4.png",
+        "https://api.2626.com.cn/caipiao/redball-1.png"
       ],
-      "date_time": "2024244期 2024-09-10 周二",
-      "id": 9600,
+      "date_time": "2024245期 2024-09-11 周三",
+      "id": 9601,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon3.png"
     },
@@ -53,12 +53,12 @@
       "title": "排列3",
       "type": "pls",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-3.png",
-        "https://api.2626.com.cn/caipiao/redball-6.png",
-        "https://api.2626.com.cn/caipiao/redball-8.png"
+        "https://api.2626.com.cn/caipiao/redball-1.png",
+        "https://api.2626.com.cn/caipiao/redball-8.png",
+        "https://api.2626.com.cn/caipiao/redball-4.png"
       ],
-      "date_time": "2024244期 2024-09-10 周二",
-      "id": 18679,
+      "date_time": "2024245期 2024-09-11 周三",
+      "id": 18680,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon4.png"
     },
@@ -66,14 +66,14 @@
       "title": "排列5",
       "type": "plw",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-3.png",
-        "https://api.2626.com.cn/caipiao/redball-6.png",
+        "https://api.2626.com.cn/caipiao/redball-1.png",
         "https://api.2626.com.cn/caipiao/redball-8.png",
+        "https://api.2626.com.cn/caipiao/redball-4.png",
         "https://api.2626.com.cn/caipiao/redball-9.png",
         "https://api.2626.com.cn/caipiao/redball-4.png"
       ],
-      "date_time": "2024244期 2024-09-10 周二",
-      "id": 31894,
+      "date_time": "2024245期 2024-09-11 周三",
+      "id": 31895,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon5.png"
     },
