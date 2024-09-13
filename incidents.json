@@ -66,14 +66,14 @@
       "title": "排列5",
       "type": "plw",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-1.png",
         "https://api.2626.com.cn/caipiao/redball-8.png",
+        "https://api.2626.com.cn/caipiao/redball-1.png",
+        "https://api.2626.com.cn/caipiao/redball-6.png",
         "https://api.2626.com.cn/caipiao/redball-4.png",
-        "https://api.2626.com.cn/caipiao/redball-9.png",
-        "https://api.2626.com.cn/caipiao/redball-4.png"
+        "https://api.2626.com.cn/caipiao/redball-6.png"
       ],
-      "date_time": "2024245期 2024-09-11 周三",
-      "id": 31895,
+      "date_time": "2024246期 2024-09-12 周四",
+      "id": 31896,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon5.png"
     },
