@@ -53,12 +53,12 @@
       "title": "排列3",
       "type": "pls",
       "haoma": [
-        "https://api.2626.com.cn/caipiao/redball-4.png",
-        "https://api.2626.com.cn/caipiao/redball-3.png",
+        "https://api.2626.com.cn/caipiao/redball-9.png",
+        "https://api.2626.com.cn/caipiao/redball-5.png",
         "https://api.2626.com.cn/caipiao/redball-4.png"
       ],
-      "date_time": "2024247期 2024-09-13 周五",
-      "id": 18682,
+      "date_time": "2024248期 2024-09-14 周六",
+      "id": 18683,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon4.png"
     },
@@ -66,14 +66,14 @@
       "title": "排列5",
       "type": "plw",
       "haoma": [
+        "https://api.2626.com.cn/caipiao/redball-9.png",
+        "https://api.2626.com.cn/caipiao/redball-5.png",
         "https://api.2626.com.cn/caipiao/redball-4.png",
         "https://api.2626.com.cn/caipiao/redball-3.png",
-        "https://api.2626.com.cn/caipiao/redball-4.png",
-        "https://api.2626.com.cn/caipiao/redball-8.png",
-        "https://api.2626.com.cn/caipiao/redball-9.png"
+        "https://api.2626.com.cn/caipiao/redball-4.png"
       ],
-      "date_time": "2024247期 2024-09-13 周五",
-      "id": 31897,
+      "date_time": "2024248期 2024-09-14 周六",
+      "id": 31898,
       "status": false,
       "icon": "https://api.2626.com.cn/caipiao/cpicon5.png"
     },
