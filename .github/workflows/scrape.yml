@@ -1,10 +1,10 @@
 name: Scrape latest data
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron: '6,26,46 * * * *'
+# on:
+#  push:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: '6,26,46 * * * *'
 
 permissions:
   contents: write
